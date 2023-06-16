@@ -8062,3 +8062,249 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.cl
 2023-06-14 10:26:28,183 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
 2023-06-14 10:26:39,949 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
 2023-06-14 10:49:37,973 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-06-15 10:41:57,527 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-06-15 10:44:56,643 [Worker-8: Launching AccountserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 10:44:56,645 [Worker-8: Launching AccountserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-15 10:44:56,649 [Worker-8: Launching AccountserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 10:44:56,668 [Worker-8: Launching AccountserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-15 10:44:56,673 [Worker-8: Launching AccountserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 10:44:56,673 [Worker-8: Launching AccountserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-15 10:44:56,674 [Worker-8: Launching AccountserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ADMIN\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\accountservice\src\test\resources
+2023-06-15 10:44:59,694 [Worker-5: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier  to /accountservice/target/classes
+2023-06-15 10:44:59,883 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 10:44:59,883 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-15 10:44:59,884 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 10:44:59,903 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 10:44:59,916 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 10:44:59,917 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-15 10:44:59,917 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ADMIN\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\notificationservice\src\test\resources
+2023-06-15 10:45:00,968 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 10:45:00,968 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-15 10:45:00,969 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 10:45:00,992 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-15 10:45:00,997 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 10:45:00,997 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-15 10:45:00,998 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ADMIN\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\statisticservice\src\test\resources
+2023-06-15 10:47:26,774 [Worker-3: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-15 10:47:26,886 [Worker-3: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-15 10:47:26,986 [Worker-3: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-15 13:27:35,199 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-06-15 13:54:46,949 [Worker-12: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier  to /accountservice/target/classes
+2023-06-15 13:54:47,323 [Worker-22: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-15 13:54:47,440 [Worker-22: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-15 13:54:47,552 [Worker-22: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-15 14:19:58,668 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 14:19:58,668 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-15 14:19:58,672 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 14:19:58,707 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-15 14:19:58,710 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 14:19:58,710 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-15 14:19:58,710 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ADMIN\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\accountservice\src\test\resources
+2023-06-15 14:36:38,816 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 14:36:38,817 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-15 14:36:38,820 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 14:36:38,864 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-15 14:36:38,869 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 14:36:38,869 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-15 14:36:38,869 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ADMIN\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\accountservice\src\test\resources
+2023-06-15 14:39:11,274 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 14:39:11,274 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-15 14:39:11,275 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 14:39:11,282 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-15 14:39:11,286 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 14:39:11,286 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-15 14:39:11,286 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ADMIN\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\accountservice\src\test\resources
+2023-06-15 14:42:20,798 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 14:42:20,799 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-15 14:42:20,799 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 14:42:20,809 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-15 14:42:20,812 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 14:42:20,812 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-15 14:42:20,812 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ADMIN\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\accountservice\src\test\resources
+2023-06-15 14:51:50,936 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 14:51:50,938 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-15 14:51:50,939 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 14:51:51,011 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-15 14:51:51,013 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 14:51:51,014 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-15 14:51:51,014 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ADMIN\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\accountservice\src\test\resources
+2023-06-15 14:56:16,490 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 14:56:16,490 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-15 14:56:16,491 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 14:56:16,499 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-15 14:56:16,502 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 14:56:16,502 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-15 14:56:16,502 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ADMIN\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\accountservice\src\test\resources
+2023-06-15 14:58:24,476 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 14:58:24,476 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-15 14:58:24,477 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 14:58:24,489 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-15 14:58:24,492 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 14:58:24,493 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-15 14:58:24,493 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ADMIN\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\accountservice\src\test\resources
+2023-06-15 15:19:08,468 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-06-15 15:38:47,980 [Worker-11: Launching AccountserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 15:38:47,995 [Worker-11: Launching AccountserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-15 15:38:47,997 [Worker-11: Launching AccountserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 15:38:48,017 [Worker-11: Launching AccountserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-15 15:38:48,021 [Worker-11: Launching AccountserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 15:38:48,021 [Worker-11: Launching AccountserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-15 15:38:48,021 [Worker-11: Launching AccountserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ADMIN\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\accountservice\src\test\resources
+2023-06-15 15:38:51,473 [Worker-13: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier  to /accountservice/target/classes
+2023-06-15 15:53:34,313 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 15:53:34,313 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-15 15:53:34,317 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 15:53:34,384 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-15 15:53:34,388 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 15:53:34,388 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-15 15:53:34,388 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ADMIN\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\accountservice\src\test\resources
+2023-06-15 16:34:14,353 [Worker-28: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-15 16:34:14,526 [Worker-28: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-15 16:34:14,684 [Worker-28: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-15 16:34:49,729 [Worker-17: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-15 16:34:49,880 [Worker-17: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-15 16:34:50,027 [Worker-17: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-15 16:36:51,338 [Worker-17: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-15 16:36:51,461 [Worker-17: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-15 16:36:51,577 [Worker-17: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-15 16:41:12,471 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 16:41:12,471 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-15 16:41:12,472 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 16:41:12,488 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 16:41:12,521 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 16:41:12,521 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-15 16:41:12,521 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ADMIN\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\notificationservice\src\test\resources
+2023-06-15 16:41:29,773 [Worker-39: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-15 16:41:29,863 [Worker-39: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-15 16:41:29,957 [Worker-39: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-15 16:44:30,429 [Worker-41: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-15 16:44:30,529 [Worker-41: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-15 16:44:30,624 [Worker-41: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-15 16:45:29,107 [Worker-41: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-15 16:45:29,203 [Worker-41: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-15 16:45:29,310 [Worker-41: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-16 08:23:52,582 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-06-16 08:32:33,853 [Worker-13: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier  to /accountservice/target/classes
+2023-06-16 08:32:35,948 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-16 08:32:35,948 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-16 08:32:35,950 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-16 08:32:35,975 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-16 08:32:35,988 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-16 08:32:35,988 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-16 08:32:35,988 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ADMIN\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\notificationservice\src\test\resources
+2023-06-16 08:37:15,402 [Worker-11: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-16 08:37:15,504 [Worker-11: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-16 08:37:15,618 [Worker-11: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-16 08:37:51,417 [Worker-18: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-16 08:37:51,532 [Worker-18: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-16 08:37:51,631 [Worker-18: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-16 08:46:37,930 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-16 08:46:37,930 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-16 08:46:37,932 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-16 08:46:37,943 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-16 08:46:37,947 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-16 08:46:37,947 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-16 08:46:37,947 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ADMIN\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\notificationservice\src\test\resources
+2023-06-16 08:47:36,585 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-16 08:47:36,585 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-16 08:47:36,586 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-16 08:47:36,599 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-16 08:47:36,602 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-16 08:47:36,602 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-16 08:47:36,602 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ADMIN\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\notificationservice\src\test\resources
+2023-06-16 08:47:51,572 [Worker-23: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-16 08:47:51,668 [Worker-23: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-16 08:47:51,772 [Worker-23: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-16 08:48:31,480 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-16 08:48:31,480 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-16 08:48:31,480 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-16 08:48:31,485 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-16 08:48:31,488 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-16 08:48:31,488 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-16 08:48:31,488 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ADMIN\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\notificationservice\src\test\resources
+2023-06-16 08:48:38,304 [Worker-20: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-16 08:48:38,398 [Worker-20: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-16 08:48:38,499 [Worker-20: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-16 08:54:11,049 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-16 08:54:11,049 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-16 08:54:11,049 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-16 08:54:11,059 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-16 08:54:11,062 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-16 08:54:11,062 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-16 08:54:11,062 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ADMIN\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\notificationservice\src\test\resources
+2023-06-16 08:55:49,058 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-16 08:55:49,058 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-16 08:55:49,059 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-16 08:55:49,066 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-16 08:55:49,069 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-16 08:55:49,069 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-16 08:55:49,069 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ADMIN\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\notificationservice\src\test\resources
+2023-06-16 08:56:07,584 [Worker-30: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-16 08:56:07,717 [Worker-30: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-16 08:56:07,812 [Worker-30: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-16 08:56:23,192 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-16 08:56:23,193 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-16 08:56:23,193 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-16 08:56:23,196 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-16 08:56:23,199 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-16 08:56:23,199 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-16 08:56:23,199 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ADMIN\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\notificationservice\src\test\resources
+2023-06-16 09:21:14,538 [Worker-30: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-16 09:21:14,638 [Worker-30: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-16 09:21:14,731 [Worker-30: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-16 09:22:03,484 [Worker-18: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-16 09:22:03,754 [Worker-18: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-16 09:22:03,966 [Worker-18: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-16 09:23:25,855 [Worker-34: Launching NotificationserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-16 09:23:25,856 [Worker-34: Launching NotificationserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-16 09:23:25,856 [Worker-34: Launching NotificationserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-16 09:23:25,873 [Worker-34: Launching NotificationserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-16 09:23:25,880 [Worker-34: Launching NotificationserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-16 09:23:25,880 [Worker-34: Launching NotificationserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-16 09:23:25,881 [Worker-34: Launching NotificationserviceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ADMIN\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\notificationservice\src\test\resources
+2023-06-16 09:23:26,024 [Worker-34: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-16 09:23:26,116 [Worker-34: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-16 09:23:26,225 [Worker-34: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-16 09:25:21,583 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-16 09:25:21,583 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-16 09:25:21,583 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-16 09:25:21,591 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-16 09:25:21,594 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-16 09:25:21,594 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-16 09:25:21,594 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ADMIN\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\notificationservice\src\test\resources
+2023-06-16 09:25:26,606 [Worker-33: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-16 09:25:26,692 [Worker-33: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-16 09:25:26,791 [Worker-33: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-16 09:25:40,691 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-16 09:25:40,691 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-16 09:25:40,692 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-16 09:25:40,720 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-16 09:25:40,722 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-16 09:25:40,723 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-16 09:25:40,723 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ADMIN\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\notificationservice\src\test\resources
+2023-06-16 09:25:53,491 [Worker-35: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-16 09:25:53,617 [Worker-35: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-16 09:25:53,729 [Worker-35: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-16 09:26:11,354 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-16 09:26:11,355 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-16 09:26:11,355 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-16 09:26:11,358 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-16 09:26:11,361 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-16 09:26:11,361 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-16 09:26:11,361 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ADMIN\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\notificationservice\src\test\resources
+2023-06-16 09:26:17,907 [Worker-33: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-16 09:26:17,998 [Worker-33: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-16 09:26:18,083 [Worker-33: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-16 09:26:29,283 [Worker-34: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-16 09:26:29,384 [Worker-34: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-16 09:26:29,482 [Worker-34: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-16 09:26:36,954 [Worker-32: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-16 09:26:37,098 [Worker-32: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-16 09:26:37,190 [Worker-32: Launching NotificationserviceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/accountservice: jmaster.io:accountservice:1.0 with classifier null to /accountservice/target/classes
+2023-06-16 09:27:21,976 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-16 09:27:21,976 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-16 09:27:21,977 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-16 09:27:21,982 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-16 09:27:21,984 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-16 09:27:21,984 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-16 09:27:21,984 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ADMIN\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\notificationservice\src\test\resources

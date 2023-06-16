@@ -43,28 +43,28 @@ public class AccountController {
 		MessageDTO messageDTO = new MessageDTO();
 		messageDTO.setTo(account.getEmail());
 		messageDTO.setToName(account.getName());
-		messageDTO.setSubject("Welcome to Jmaster.io");
-		messageDTO.setContent("JMaster is online learning platform.");
+		messageDTO.setSubject("Welcome to Kafka");
+		messageDTO.setContent("Kafka is online learning platform.");
 		messageDTO.setStatus(false);
 		
 		accountRepo.save(account);
 		messageRepo.save(messageDTO);
 		statisticRepo.save(stat);
-//		for (int i = 0; i < 100; i++)
-//			kafkaTemplate.send("notification", messageDTO).addCallback(new KafkaSendCallback<String, Object>(){
-//				@Override
-//				public void onFailure(KafkaProducerException ex) {
-//					//hadle fail, save db event failed
-//					ex.printStackTrace();
-//				}
-//				@Override
-//				public void onSuccess(org.springframework.kafka.support.SendResult<String, Object> result) {
-//					// TODO Auto-generated method stub
-//					System.out.println(result.getRecordMetadata().partition());
-//				}
-//		});
-//		
-//		kafkaTemplate.send("statistic", stat);
+		for (int i = 0; i < 100; i++)
+			kafkaTemplate.send("notification", messageDTO).addCallback(new KafkaSendCallback<String, Object>(){
+				@Override
+				public void onFailure(KafkaProducerException ex) {
+					//hadle fail, save db event failed
+					ex.printStackTrace();
+				}
+				@Override
+				public void onSuccess(org.springframework.kafka.support.SendResult<String, Object> result) {
+					// TODO Auto-generated method stub
+					System.out.println(result.getRecordMetadata().partition());
+				}
+		});
+		
+		kafkaTemplate.send("statistic", stat);
 		
 		return account;
 		

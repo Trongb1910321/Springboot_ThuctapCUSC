@@ -76,7 +76,7 @@ public class PollingService {
 		});
 		}
 	}
-	@Scheduled(fixedDelay = 60000)
+	@Scheduled(fixedDelay = 6000)
 	public void delete() {
 		List<MessageDTO> messageDTOs = messageRepo.findByStatus(true);
 		messageRepo.deleteAllInBatch(messageDTOs);
